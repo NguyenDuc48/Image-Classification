@@ -1,5 +1,6 @@
 # Image Classification: Motorbike vs Bicycle
 
+You can run the model directly at Google Colab: https://colab.research.google.com/drive/1nKWE_BUnvmmFNEfDjCwGR9EODdLa1jsz?usp=sharing
 ## Introduction
 
 This repository contains code and resources for fine-tuning the VGG-19 model to classify images into two classes: motorbike and bicycle. The model is trained to distinguish between these two categories using transfer learning and fine-tuning on a custom dataset.
