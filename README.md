@@ -10,10 +10,10 @@ This repository contains code and resources for fine-tuning the VGG-19 model to 
 
 Make sure you have the following dependencies installed:
 
-Numpy version: 1.23.5
-TensorFlow version: 2.15.0
-OpenCV version: 4.8.0
-Matplotlib version: 3.7.1
+- Numpy version: 1.23.5
+- TensorFlow version: 2.15.0
+- OpenCV version: 4.8.0
+- Matplotlib version: 3.7.1
 
 ## Usage
 
